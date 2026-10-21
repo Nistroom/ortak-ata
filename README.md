@@ -1,0 +1,2 @@
+# ortak-ata
+evrimle alakalı
